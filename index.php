@@ -7,6 +7,11 @@
     <title>Things to do</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
 <h1>To Do List</h1>
